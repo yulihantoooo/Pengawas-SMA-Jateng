@@ -1,0 +1,7 @@
+{
+  "name": "SIMONEV TKA SMA JATENG",
+  "description": "Aplikasi Monitoring dan Evaluasi Pelaksanaan Tes Kemampuan Akademik (TKA) Jenjang SMA Negeri dan Swasta di Wilayah Provinsi Jawa Tengah Berdasarkan Kepmendikdasmen No. 56 Tahun 2026 dan Perkaban No. 45 Tahun 2025",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
